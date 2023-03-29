@@ -3,7 +3,7 @@
 //Author: Felix X. Pagan Gonzalez
 
 #include <iostream>
-#include <cmath>
+#include <cmath> //Math function for complex numbers.
 using namespace std;
 
 float oposite;
