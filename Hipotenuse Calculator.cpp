@@ -1,4 +1,4 @@
-//This program is to calculate de hipotenus of a rectangular triangle usin the Pythagoran Theorem.
+//This program is to calculate de hipotenuse of a rectangular triangle using the Pythagoran Theorem.
 //(a^2+b^2=c^2)
 //Author: Felix X. Pagan Gonzalez
 
